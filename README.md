@@ -13,11 +13,11 @@ Executive-level Power BI dashboard built using a Global E-Commerce Sales dataset
 
 ## Dashboard Preview
 
-![Dashboard](Screenshots/Dashboard_Main_Page.png)
+Dashboard_Main_Page.png.png
 
 ## Data Model
 
-![Data Model](Screenshots/Data_Model.png)
+Data_Model.png
 
 ## KPIs
 
