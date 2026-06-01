@@ -1,0 +1,8 @@
+Dataset Name:
+Global E-Commerce Sales Dataset
+
+Source:
+Kaggle
+
+Purpose:
+Used to build an executive-level Power BI dashboard for sales, profit, customer, and regional analysis.
