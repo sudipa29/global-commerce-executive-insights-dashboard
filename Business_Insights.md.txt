@@ -1,0 +1,35 @@
+# Business Insights
+
+## Regional Performance
+
+Europe and North America contribute the highest sales revenue.
+
+---
+
+## Profitability
+
+The business maintains a profit margin above 32%.
+
+---
+
+## Product Performance
+
+Technology and Electronics categories generate the highest sales.
+
+---
+
+## Customer Segment Analysis
+
+Corporate and Consumer customers contribute most revenue.
+
+---
+
+## Payment Method Analysis
+
+Credit Card and PayPal are the preferred payment methods.
+
+---
+
+## Executive Summary
+
+The dashboard provides a comprehensive view of sales, profitability, customer behavior, and regional performance to support business decision-making.

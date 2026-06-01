@@ -1,0 +1,48 @@
+# KPI Definitions
+
+## Total Sales
+Sum of all sales transactions.
+
+Formula:
+Total Sales = 
+SUM(FactSales[Sales])
+---
+
+## Total Profit
+Sum of all profit transactions.
+
+Formula:
+Total Profit = 
+SUM(FactSales[Profit])
+---
+
+## Total Orders
+Distinct count of Order IDs.
+
+Formula:
+DISTINCTCOUNT(FactSales[Order_ID])
+
+---
+
+## Total Quantity Sold
+Total quantity sold across all orders.
+
+Formula:
+Total Quantity Sold = 
+SUM(FactSales[Quantity])
+---
+
+## Profit Margin %
+Profit generated per sales dollar.
+
+Formula:
+Profit Margin % = 
+DIVIDE([Total Profit], [Total Sales], 0)
+---
+
+## Average Order Value (AOV)
+Average revenue per order.
+
+Formula:
+Average Order Value = 
+DIVIDE([Total Sales], [TotalOrders], 0)
